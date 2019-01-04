@@ -13,6 +13,7 @@ If you use this algorithm, you can figure out whether <img src="https://latex.co
 ## Implementation
 Here, I am going to show quantum circuits and codes that I implemented.
 
-This is the quantum circuit for a constant function
+This is the quantum circuit for a constant function  
+![dj_constant](https://user-images.githubusercontent.com/45162150/50703672-3ca48880-1098-11e9-8ac6-45d43fa3ca7d.png)
 
 
