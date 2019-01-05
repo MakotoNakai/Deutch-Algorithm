@@ -15,8 +15,8 @@ I prepared the oracle <img src="https://latex.codecogs.com/gif.latex?U_f" title=
 If <img src="https://latex.codecogs.com/gif.latex?|x_0x_1\rangle&space;=&space;|00\rangle" title="|x_0x_1\rangle = |00\rangle" />, this function would be constant and it would be balanced otherwise.
 
 ## Implementation
-Here, I am going to show quantum circuits and codes that I implemented.
-
+Here, I am going to show quantum circuits and codes that I implemented.  
+### Constant function
 This is the quantum circuit for a constant function  
 ![dj_constant](https://user-images.githubusercontent.com/45162150/50703672-3ca48880-1098-11e9-8ac6-45d43fa3ca7d.png)
 
@@ -27,6 +27,12 @@ Also, this is the result on ibmqtokyo20.
 ![screen shot 2019-01-05 at 10 45 22 am](https://user-images.githubusercontent.com/45162150/50718839-2c5fce00-10d7-11e9-8036-9b5ad2de9349.png)
 
 Therefore, this is a constant function.  
+
+### Balanced function  
+This is the quantum circuit for a balanced function.
+
+
+
 
 
 
