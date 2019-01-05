@@ -36,7 +36,11 @@ and this is the result on OpenQASM simulator.
 ![screen shot 2019-01-05 at 10 52 18 am](https://user-images.githubusercontent.com/45162150/50718904-0850bc80-10d8-11e9-82a7-11ec4af0729f.png)  
 
 This is the result on ibmq20Tokyo.  
+![screen shot 2019-01-05 at 10 55 33 am](https://user-images.githubusercontent.com/45162150/50718942-82814100-10d8-11e9-995e-d5e1b14cfcef.png)
 
+The outcome is not (in most cases) <img src="https://latex.codecogs.com/gif.latex?|00\rangle" title="|00\rangle" />,therefore, it can be said that this function is balanced.
+
+I also uploaded implementation for Deutch algorithm, which is the Deutsch-Jozsa algorithm for one qubit, feel free to check my code.
 
 
 
