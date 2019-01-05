@@ -20,8 +20,11 @@ Here, I am going to show quantum circuits and codes that I implemented.
 This is the quantum circuit for a constant function  
 ![dj_constant](https://user-images.githubusercontent.com/45162150/50703672-3ca48880-1098-11e9-8ac6-45d43fa3ca7d.png)
 
-and this is the result.  
-![screen shot 2019-01-05 at 10 41 05 am](https://user-images.githubusercontent.com/45162150/50718777-7bf1ca00-10d6-11e9-8865-e7e77efce261.png)  
+and this is the result on OpenQASM simulator.    
+![screen shot 2019-01-05 at 10 41 05 am](https://user-images.githubusercontent.com/45162150/50718777-7bf1ca00-10d6-11e9-8865-e7e77efce261.png)
+
+Also, this is the result on ibmqtokyo20.  
+![screen shot 2019-01-05 at 10 45 22 am](https://user-images.githubusercontent.com/45162150/50718839-2c5fce00-10d7-11e9-8036-9b5ad2de9349.png)
 
 Therefore, this is a constant function.  
 
