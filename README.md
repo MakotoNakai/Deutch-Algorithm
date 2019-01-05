@@ -30,6 +30,10 @@ Therefore, this is a constant function.
 
 ### Balanced function  
 This is the quantum circuit for a balanced function.
+![screen shot 2019-01-05 at 10 49 07 am](https://user-images.githubusercontent.com/45162150/50718886-bf006d00-10d7-11e9-8ce2-a362dca78d62.png)  
+
+and this is the result on OpenQASM simulator.
+
 
 
 
